@@ -11,3 +11,5 @@ The App is live on https://todolist-react-local.netlify.app/ .
 Setup:
 
 - run `npm i && npm start` for both client and server side to start the app
+
+The Website is live on https://todolist-react-local.netlify.app/
